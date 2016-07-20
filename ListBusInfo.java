@@ -186,8 +186,8 @@ class ListBusInfo {
 
   // Main function:  Reads a real-time feed information file and prints information in the FeedMessage from the file.
   public static void main(String[] args) throws Exception {
-    if (args.length != 1 && args.length != 2) {
-      System.err.println("Usage:  BusList [-t] REAL_TIME_FEED_FILE");
+    if (args.length != 1) {
+      System.err.println("Usage:  BusList REAL_TIME_FEED_FILE");
       System.exit(-1);
       }
 
