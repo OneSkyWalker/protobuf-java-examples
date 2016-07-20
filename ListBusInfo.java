@@ -1,4 +1,4 @@
-// See .\protobuf-2.6.1\examples\README.txt for information and build instructions.
+// Please see https://github.com/OneSkyWalker/protobuf-java-examples/wiki for information and build instructions.
 
 // Please note that I am novice Java programmer.  I wrote this code to be thorough
 // (that is, find everything in a feedMessage), not to be efficient.  Even though
